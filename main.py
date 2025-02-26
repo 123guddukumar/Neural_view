@@ -203,7 +203,7 @@ def crop_to_circle(image_path):
         return None
 
 # Streamlit app
-st.title("Impressive Neural Network Diagram with Clear Live Data Processing")
+st.title("Neural Network Diagram with Clear Live Data Processing")
 
 # Sidebar with About Developer (fixed content with circular image)
 with st.sidebar:
